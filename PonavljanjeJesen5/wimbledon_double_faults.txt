@@ -1,0 +1,10 @@
+Serena Williams 12
+Roger Federer 4
+Maria Sharapova 15
+Venus Williams 10
+Novak Djokovic 6
+Rafael Nadal 7
+Petra Kvitova 14
+Andy Murray 2
+Naomi Osaka 3
+Stefanos Tsitsipas 5

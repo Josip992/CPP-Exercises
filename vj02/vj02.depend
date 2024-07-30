@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1668381653 source:c:\users\josip\desktop\programiranje c++\vj02\vj02\main2.cpp
+	<iostream>
+	<vector>
+	"funkcije2.hpp"
+
+1668381584 c:\users\josip\desktop\programiranje c++\vj02\vj02\funkcije2.hpp
+	<iostream>
+	<ios>
+	<vector>
+
+1668381653 source:c:\users\josip\desktop\programiranje c++\vj02\vj02\funkcije2.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1668382867 source:c:\users\josip\desktop\programiranje c++\vj02\vj02\funkcije.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1668383606 source:c:\users\josip\desktop\programiranje c++\vj02\vj02\funkcije3.cpp
+	<iostream>
+	<ios>
+	<vector>
+
+1668381879 source:c:\users\josip\desktop\programiranje c++\vj02\vj02\main.cpp
+	<iostream>
+	<vector>
+	"funkcije.hpp"
+
+1668383702 c:\users\josip\desktop\programiranje c++\vj02\vj02\funkcije.hpp
+	<iostream>
+	<ios>
+	<vector>
+
+1668383742 source:c:\users\josip\desktop\programiranje c++\vj02\vj02\main3.cpp
+	<iostream>
+	<ios>
+	<vector>
+	<cstring>
+	"funkcije3.hpp"
+
+1668383583 c:\users\josip\desktop\programiranje c++\vj02\vj02\funkcije3.hpp
+	<iostream>
+	<ios>
+	<vector>
+
+1668423751 source:c:\users\josip\desktop\programiranje c++\vj02\vj02\funkcije5.cpp
+	<iostream>
+	<ios>
+	<vector>
+	<cstring>
+	<algorithm>
+
+1668423874 source:c:\users\josip\desktop\programiranje c++\vj02\vj02\funkcije4.cpp
+	<iostream>
+	<ios>
+	<vector>
+	<cstring>
+	<algorithm>
+	<time.h>
+
